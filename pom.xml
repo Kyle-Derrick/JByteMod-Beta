@@ -167,8 +167,6 @@
          <groupId>org.bitbucket.mstrobel</groupId>
          <artifactId>procyon</artifactId>
          <version>0.5.33</version>
-         <scope>system</scope>
-         <systemPath>${basedir}/lib/procyon-0.5.33.jar</systemPath>
       </dependency>
       <dependency>
          <!-- Warning: This version is outdated and i couldn't find any newer version, use 3.8.0 instead -->
@@ -185,22 +183,16 @@
          <groupId>com.weblaf</groupId>
          <artifactId>weblaf</artifactId>
          <version>1.2.9</version>
-         <scope>system</scope>
-         <systemPath>${basedir}/lib/weblaf-complete-1.29-fixed.jar</systemPath>
       </dependency>
       <dependency>
          <groupId>org.benf</groupId>
          <artifactId>reader</artifactId>
          <version>1.3.9</version>
-         <scope>system</scope>
-         <systemPath>${basedir}/lib/cfr_0_139.jar</systemPath>
       </dependency>
       <dependency>
          <groupId>com.sun</groupId>
          <artifactId>attach</artifactId>
          <version>1.7</version>
-         <scope>system</scope>
-         <systemPath>${basedir}/lib/attach-1.7.jar</systemPath>
       </dependency>
       <dependency>
          <groupId>commons-cli</groupId>
